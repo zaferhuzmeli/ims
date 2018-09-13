@@ -7,12 +7,6 @@
 }
 /************************************************************************
 
-Template Name: Eventalk HTML5 Template 
-URI: https://radiustheme.com 
-Description: Eventalk HTML5 Template 
-Author: Radius Theme 
-Author URI: https://radiustheme.com Version: 2.0 
-
 *************************************************************************
 
 ========================================  
@@ -574,6 +568,10 @@ button:hover {
 }
 .media-body-box p {
   margin-bottom: 0;
+}
+.media-body-box h6{
+  text-align: center;
+  padding: 10px 0;
 }
 @media only screen and (max-width: 1199px) {
   .media-none--lg {
@@ -7502,7 +7500,7 @@ div ~ :last-child .progress-layout2:before {
 .footer-layout2 .footer-top-area .widget .footer-widget-contact {
   position: relative;
   padding-left: 30px;
-  font-size: 24px;
+  font-size: 15px;
   font-weight: 700;
   margin-bottom: 25px;
 }
